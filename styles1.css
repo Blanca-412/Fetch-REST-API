@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #4a045c;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.container {
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1a0f25;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.card-container {
+    background-color: #c376c9;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+
